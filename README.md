@@ -4,13 +4,13 @@
 # Judul : Menghidupkan Lampu LED menggunakan HP koneksi WIFI Lokal
 
 # Alat Bahan
-Esp 32
-Laptop/Komputer + Software Arduino IDE
-Kabel micro USB
-Resistor 220 - 330 ohm
-Jumper wires male to female
-Lampu Led 3mm
-Project board/Bearboard
+1)Esp 32
+2)Laptop/Komputer + Software Arduino IDE
+3)Kabel micro USB
+4)Resistor 220 - 330 ohm
+5)Jumper wires male to female
+6)Lampu Led 3mm
+7)Project board/Bearboard
 
 # Skema Wiring/Perkabelan
 1) Hubungkan pin ESP32 menggunakan jumper wires male to female (Pastikan saat menghubungkan pin,pin harus sama seperti pada program dan pin juga bisa diganti dengan yang anda mau dan program hanya tinggal menyesuaikan saja pada pin yang anda pakai)
